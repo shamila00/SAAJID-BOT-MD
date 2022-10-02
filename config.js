@@ -38,8 +38,6 @@ global.alivemsg =`HI I'M  ⚜️ŞΔΔĴƗĐ_Ø₣₣ƗĆƗΔŁ⚜️  *හා�
 
 
 
-
-
 global.alivepic = "https://i.ibb.co/rHBnLYP/IMG-20221002-WA0008.jpg" //you logo key 
 
 
@@ -59,9 +57,9 @@ global.goldAwal = '10'
 global.emeraldAwal = '5'
 global.umpanAwal = '5'
 global.potionAwal = '1'
-global.dripstyping = true
-global.dripsreadgroup = true
-global.dripsreadall = true
+global.dripstyping = false
+global.dripsreadgroup = false
+global.dripsreadall = false
 global.dripsrecord = false
 global.available = false
 global.unavailable = true
