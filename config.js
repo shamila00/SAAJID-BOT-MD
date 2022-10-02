@@ -31,29 +31,10 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg =`HI I'M  ⚜️ŞΔΔĴƗĐ_Ø₣₣ƗĆƗΔŁ⚜️
+global.alivemsg =`HI I'M  ⚜️ŞΔΔĴƗĐ_Ø₣₣ƗĆƗΔŁ⚜️  *හායි ඔයාලට කොහොමද ඉතිම්..🇱🇰♲*
                     
 		   SAAJID MD📌 `
-  *(🪀ꜱᴀᴀᴊɪᴅ ʙᴏᴛ ɢʀᴏᴜᴘ🤖)*
-
-➢ *බොට්ව ඔන්ලයින්ද බැලීමට (.alive) කමාන්ඩ් එක ලබාදෙන්න.*
-
-➢ *ප්‍රධාන මෙනුව බැලීමට (.menu) ලබා දෙන්න.*
-
-➢ *වෙන group වල ලින්ක් දාන්න එපා auto remove වෙයි.*
-
-➢ *මෙම group එක OPEN - 5:00 AM CLOSE - 23:00 PM ඒ වේලාවන් වලට පමණි..*
-
-➢ *Group link - https://chat.whatsapp.com/I9fWF0cA30WCh3YawnzQwS*
-
-_No sexual🚫⚠️_
-
-_No group link🚫⚠️_
-
-_No spam🚫⚠️_
-
-*එහෙනම් Bro/sis අපි ගියා.✌️❤*
-                     
+           
 
 
 
